@@ -4,3 +4,12 @@
 /* navy blue */
 /* bright blue */
 /*peach *//*# sourceMappingURL=styles.css.map */
+
+/*columbian coffee styles */
+/*image*/
+.no-borders { border: 0px; }
+.centered { text-align: center; }
+.mod-body img {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5)
+}

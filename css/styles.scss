@@ -4,3 +4,11 @@ $button-bg-color: #59331D; /* coffee */
 $accent-color-dark: #131D26; /* navy blue */
 $accent-color-light: #082B59; /* bright blue */
 $accent-color-bright: #D98555; /*peach */
+
+/*modal styles */
+.no-borders { border: 0px; }
+.centered { text-align: center; }
+.mod-body img {
+    -webkit-transform:scale(1.5);
+    transform:scale(1.5)
+}
