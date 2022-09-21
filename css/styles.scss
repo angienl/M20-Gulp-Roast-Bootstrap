@@ -6,13 +6,10 @@ $accent-color-light: #082B59; /* bright blue */
 $accent-color-bright: #D98555; /*peach */
 
 /*modal styles */
-.no-borders { border: 0px; }
-.centered { text-align: center; }
-.modal-body {
-    display:flex;
-}
+
 /*when using original sized image*/
 .modal-body img {
     -webkit-transform:scale(1.5);
     transform:scale(1.5)
 }
+/*modal styles end*/
